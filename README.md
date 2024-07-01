@@ -1,18 +1,20 @@
-** Task: Fake News Detection / Classification
-** Steps Involved:-
+<h2> Task: Fake News Detection / Classification</h2>
+<h2> Steps Involved:-</h2>
 <ul>
-  <li> 1. Data Collected from kaggle</li>
-  <li> 2. Data Exploration and manipulation using Pandas</li>
-  <li>3. Text preprocessing using nltk </li>
-  <li>4. Text to Vectors using TFIDF Vectorizer </li>
-  <li> 5. Model Building</li>
-  <li>6. Model Evaluation </li>
-  <li>7. Improvement </li>
+  <li>Data Collected from kaggle</li>
+  <li>Data Exploration and manipulation using Pandas</li>
+  <li>Text preprocessing using nltk </li>
+  <li>Text to Vectors using TFIDF Vectorizer </li>
+  <li> Model Building</li>
+  <li>Model Evaluation </li>
+  <li>Improvement </li>
 </ul>
-** Model: Support Vector Classifier
+<h3> Model: Support Vector Classifier</h3>
 <ol>
-  <li>1. Training Accuracy: 99.86%</li>
-  <li>1. Testing Accuracy: 98.46%</li>
-  <li>1. Precision: 97.45%</li>
-  <li>1. Recall: 98.67%</li>
+  <li> Training Accuracy: 99.86%</li>
+  <li> Testing Accuracy: 98.46%</li>
+  <li> Precision: 97.45%</li>
+  <li> Recall: 98.67%</li>
 </ol>
+
+<a href='https://www.kaggle.com/c/fake-news/data?select=train.csv'>Dataset Link</a>
