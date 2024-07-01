@@ -1,0 +1,6 @@
+setup.py
+Fake_News_Classifier.egg-info/PKG-INFO
+Fake_News_Classifier.egg-info/SOURCES.txt
+Fake_News_Classifier.egg-info/dependency_links.txt
+Fake_News_Classifier.egg-info/top_level.txt
+src/__init__.py
