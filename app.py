@@ -37,4 +37,4 @@ if btn:
     if pred==0:
         st.write('Real News')
     else:
-        st.write('Fake News')
+        st.write('Fake News Detected')
